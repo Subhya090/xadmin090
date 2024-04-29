@@ -22,7 +22,7 @@ def send_action(action):
 
 
 # Define your Telegram bot token
-TOKEN = userdata.get('XADMIN')
+TOKEN = userdata.get('6570658233:AAHJTt7jf7CoDw6gfaKkwb3ASpC-VpYu16w')
 
 # Define the command handlers
 @send_action('typing')
